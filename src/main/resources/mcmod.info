@@ -1,0 +1,16 @@
+[
+{
+  "modid": "automaticmod",
+  "name": "AutomaticMod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BADlyAC"],
+  "credits": "This is a test mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
